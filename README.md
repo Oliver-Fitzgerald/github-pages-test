@@ -5,7 +5,9 @@
 To build and run this website on localhost run the following commands
 
 `npm install`
+
 `npm run build`
+
 `npm run preview`
 
 After running npm preview you should we prompted with a link to your website running on localhost
