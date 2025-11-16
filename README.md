@@ -8,11 +8,28 @@ To build and run this website on localhost run the following commands
 
 `npm run build`
 
-`npm run preview`
+`npm run dev`
 
-After running npm preview you should we prompted with a link to your website running on localhost
+After running 'npm run dev' you should we prompted with a link to your website running on localhost
 
 ## Contributing
+
+To contribute code to this repository follow the following steps
+
+'git add .'
+
+'git commit -m "Message"'
+
+'git push'
+
+
+## Publishing Changes
+
+To publish changes to github pages run the following command
+
+'npm run build'
+
+'npm run deploy'
 
 ## React + Vite
 
