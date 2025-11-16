@@ -21,8 +21,6 @@ function HomePage() {
           src={roisinheadshot}
           alt="Róisín Mohally headshot"
           loading="lazy"
-          width={400}
-          height={400}
         />
 
         <nav className="hero-nav" aria-label="primary">
