@@ -16,20 +16,20 @@ After running 'npm run dev' you should we prompted with a link to your website r
 
 To contribute code to this repository follow the following steps
 
-'git add .'
+`git add .`
 
-'git commit -m "Message"'
+`git commit -m "Message"`
 
-'git push'
+`git push`
 
 
 ## Publishing Changes
 
 To publish changes to github pages run the following command
 
-'npm run build'
+`npm run build`
 
-'npm run deploy'
+`npm run deploy`
 
 ## React + Vite
 
